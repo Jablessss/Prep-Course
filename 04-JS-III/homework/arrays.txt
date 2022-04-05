@@ -1,0 +1,2 @@
+Arrays o arreglo, es una variable de tipo especial, que utilizamos para almacenar multiples elementos, por decir asi, podemos imaginar un cajon, lleno de diferentes archvios con diferentes datos.
+Mediante otras funciones podremos acceder a ellos e interactuar en base a nuestra necesidad, ya sea buscar un argumento en particular o ordenarlos especificamente.
